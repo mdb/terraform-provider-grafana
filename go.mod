@@ -5,5 +5,5 @@ go 1.14
 require (
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/hashicorp/terraform v0.12.2
-	github.com/nytm/go-grafana-api v0.5.0
+	github.com/nytm/go-grafana-api v0.5.1-0.20200623182927-249aba6d3e68
 )

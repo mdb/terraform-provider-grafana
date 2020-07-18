@@ -302,6 +302,8 @@ github.com/nytm/go-grafana-api v0.3.1 h1:UMQYx88ZIpAxW2GunD2JgNve4QJt/T31PQXIyEt
 github.com/nytm/go-grafana-api v0.3.1/go.mod h1:YOJL2MOLAmCeqz0cbHU9tZIDj0OxpOiIFKSJXRbAorY=
 github.com/nytm/go-grafana-api v0.5.0 h1:8pIbNPNDguBa4aUNxcYl0GN247W6PXMvsOwiRBmk1sE=
 github.com/nytm/go-grafana-api v0.5.0/go.mod h1:YOJL2MOLAmCeqz0cbHU9tZIDj0OxpOiIFKSJXRbAorY=
+github.com/nytm/go-grafana-api v0.5.1-0.20200623182927-249aba6d3e68 h1:7HrS2uaftU4duTz4GkCrb/9Ev+Phm4on2qBgiGlp5MQ=
+github.com/nytm/go-grafana-api v0.5.1-0.20200623182927-249aba6d3e68/go.mod h1:sq9Gb+U8G35sia6OnQxuBfxoawrpXzbx3Y5hFSJ+Cbk=
 github.com/oklog/run v1.0.0 h1:Ru7dDtJNOyC66gQ5dQmaCa0qIsAUFY3sFpK1Xk8igrw=
 github.com/oklog/run v1.0.0/go.mod h1:dlhp/R75TPv97u0XWUtDeV/lRKWPKSdTuV0TZvrmrQA=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
